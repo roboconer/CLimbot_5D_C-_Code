@@ -1,0 +1,27 @@
+
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/**",
+                "/usr/local/**",
+                "/usr/src/**",
+                "/opt/ros/kinetic/include/**",
+                "/opt/ros/kinetic/include/ros/**",
+                "/home/kiko/realsense_ws/devel/include/**",
+                "/home/kiko/realsense_ws/src/realsense-ros/realsense2_camera/include/**",
+                "/home/kiko/catkin_ws/src/**"                             
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}

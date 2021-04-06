@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/N_fork_tree.cpp
+iostream
+-
+vector
+-
+fstream
+-
+stdlib.h
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/stdlib.h
+Eigen/Dense
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/Eigen/Dense
+

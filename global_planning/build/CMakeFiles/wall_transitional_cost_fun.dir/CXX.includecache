@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/global_planning.h
+iostream
+-
+vector
+-
+Eigen/Dense
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/Eigen/Dense
+
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/wall_transitional_cost_fun.cpp
+global_planning.h
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/global_planning.h
+

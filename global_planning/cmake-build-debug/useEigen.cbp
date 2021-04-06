@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="useEigen"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\usr\local\;CMake Files\..\..\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\..\..\usr\local\share\eigen3\;CMake Files\..\..\..\..\..\..\usr\local\share\eigen3\cmake\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transition_possibility_analysis">
+				<Option output="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/transition_possibility_analysis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/Eigen"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 transition_possibility_analysis"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="transition_possibility_analysis/fast">
+				<Option output="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/transition_possibility_analysis" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/Eigen"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 transition_possibility_analysis/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="N_fork_tree">
+				<Option output="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/N_fork_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/Eigen"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 N_fork_tree"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="N_fork_tree/fast">
+				<Option output="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/N_fork_tree" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/Eigen"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 N_fork_tree/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wall_obstacle_data">
+				<Option output="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/wall_obstacle_data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/Eigen"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 wall_obstacle_data"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="wall_obstacle_data/fast">
+				<Option output="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/wall_obstacle_data" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/Eigen"/>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 wall_obstacle_data/fast"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j6 -f &quot;/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/config/global_variable.cpp">
+			<Option target="transition_possibility_analysis"/>
+			<Option target="wall_obstacle_data"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/config/global_variable.h">
+			<Option target="transition_possibility_analysis"/>
+			<Option target="wall_obstacle_data"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/config/read_config.cpp">
+			<Option target="transition_possibility_analysis"/>
+			<Option target="wall_obstacle_data"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/config/read_config.h">
+			<Option target="transition_possibility_analysis"/>
+			<Option target="wall_obstacle_data"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/N_fork_tree.cpp">
+			<Option target="N_fork_tree"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/base_lib_code.cpp">
+			<Option target="transition_possibility_analysis"/>
+			<Option target="wall_obstacle_data"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/distance_compute/distance_compute.cpp">
+			<Option target="transition_possibility_analysis"/>
+			<Option target="wall_obstacle_data"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/distance_compute/distance_compute.h">
+			<Option target="transition_possibility_analysis"/>
+			<Option target="wall_obstacle_data"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/transition_possibility_analysis.cpp">
+			<Option target="transition_possibility_analysis"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/src/wall_obstacle_data.cpp">
+			<Option target="wall_obstacle_data"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/../../../../../../usr/local/share/eigen3/cmake/Eigen3Config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\eigen3\cmake\"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/../../../../../../usr/local/share/eigen3/cmake/Eigen3ConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\eigen3\cmake\"/>
+		</Unit>
+		<Unit filename="/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/../../../../../../usr/local/share/eigen3/cmake/Eigen3Targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\usr\local\share\eigen3\cmake\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

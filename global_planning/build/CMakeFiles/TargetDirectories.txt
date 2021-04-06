@@ -1,0 +1,4 @@
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/build/CMakeFiles/rebuild_cache.dir
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/build/CMakeFiles/edit_cache.dir
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/build/CMakeFiles/wall_obstacle_data.dir
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/build/CMakeFiles/transition_possibility_analysis.dir

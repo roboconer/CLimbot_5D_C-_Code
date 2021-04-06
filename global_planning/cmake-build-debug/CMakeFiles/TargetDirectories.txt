@@ -1,0 +1,5 @@
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/CMakeFiles/transition_possibility_analysis.dir
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/CMakeFiles/N_fork_tree.dir
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/CMakeFiles/wall_obstacle_data.dir
+/home/kiko/catkin_ws/src/motion_planing_5D_climbot/global_planning/cmake-build-debug/CMakeFiles/edit_cache.dir

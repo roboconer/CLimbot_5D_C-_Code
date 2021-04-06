@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g CMakeFiles/N_fork_tree.dir/src/N_fork_tree.cpp.o -o N_fork_tree 
