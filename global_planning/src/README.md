@@ -19,3 +19,12 @@ TIME : 2021/3/20
 - 则：P_{world_in_surface} = (R_{tran_surface_to_world})^(-1) * P_{wrold}
 
 TIME : 2021/3/21
+
+### 3、code review
+#### (1)了解gtest，给每个cpp都建立一个gtest
+#### (2) github文档在网址github后面加上'1s'，在线上编译器打开
+    如:"https://github.com/roboconer/DATA_ANALYSIS/blob/main/Titanic/titanic_DecisionTree.py"
+    用这个："https://github1s.com/roboconer/DATA_ANALYSIS/blob/main/Titanic/titanic_DecisionTree.py"
+#### (3) 针对面向对象，进行编写，不要写成C project。
+
+TIME ：2021/4/6
